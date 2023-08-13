@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.size {
+  background-color: grey;
+  border-radius: 10px;
+  border: 10px solid wheat;
+  height: 500px;
+}
+#question {
+  font-size: 30px;
+  color: burlywood;
+}
+
+.captial {
+  color: yellow;
+}
+.bg-image {
+  background-image: url('/Снимок\ экрана\ 2023-07-07\ в\ 15.52.55.png');
+  background-position: 0 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.btn-primary {
+  margin-top: 20px;
+}
+.btn:active {
+  transform: scale(0.9);
+}
+#caption {
+  height: 37px;
+}
